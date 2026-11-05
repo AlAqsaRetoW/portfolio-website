@@ -23,3 +23,4 @@ This project builds upon the foundational semantic structure from the Basic HTML
 
 - HTML5 (Semantic & Accessible)
 - CSS3 (Flexbox, Grid, Custom Properties / CSS Variables)
+
